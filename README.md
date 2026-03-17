@@ -42,7 +42,8 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
 **MARKS SPILT UP:**
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/9c6f12da-c03c-4ccd-a8d0-acb2d7e36f14" />
+<img width="921" height="1430" alt="image" src="https://github.com/user-attachments/assets/b7759982-2a81-4bb0-be7f-f12501391966" />
+
 
 
 **RESULT:**
