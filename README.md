@@ -19,11 +19,14 @@ To determine the voltage in the circuit using nodal analysis both theoretically 
 In electric circuits analysis, nodal analysis, node-voltage analysis, or the branch current method is a method of determining the voltage (potential difference) between "nodes" (points where elements or branches connect) in an electrical circuit in terms of the branch currents.
 
 **Circuit diagram**
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/388821db-972a-4441-84f0-908a70a6563f" />
+<img width="1119" height="1600" alt="image" src="https://github.com/user-attachments/assets/892e94b5-e0e0-4233-8478-471600642c79" />
+**TABULAR COLUMN**
+<img width="2203" height="1618" alt="image" src="https://github.com/user-attachments/assets/edf2ece6-1284-49ce-bdb3-b3a4b4f56a73" />
 
 **CALCULATION:**
-<img width="1020" height="1600" alt="image" src="https://github.com/user-attachments/assets/2b6fdb89-d670-409f-9dd2-64db6e4ec10e" />
-<img width="1020" height="1600" alt="image" src="https://github.com/user-attachments/assets/15dd93dc-26a2-42b6-882a-b65cb7fd873a" />
+<img width="1382" height="1295" alt="image" src="https://github.com/user-attachments/assets/3469113b-934e-40f5-b103-2dd1c78a4948" />
+<img width="1011" height="1599" alt="image" src="https://github.com/user-attachments/assets/cc9bd067-9983-4865-bf72-58281548d6bc" />
+
 
 
  
@@ -42,7 +45,7 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
 **MARKS SPILT UP:**
-<img width="921" height="1430" alt="image" src="https://github.com/user-attachments/assets/b7759982-2a81-4bb0-be7f-f12501391966" />
+<img width="1488" height="1089" alt="image" src="https://github.com/user-attachments/assets/a52fea6f-f5d1-455a-8608-f1b654e5174b" />
 
 
 
@@ -50,8 +53,8 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	V supply are:
 
-a)	The voltage V1 is	V.
+a)	The voltage V1 is	V. 0.62
 
-b)	The voltage V2 is	V.
+b)	The voltage V2 is	V.0.20
 
-c)	The voltage V3 is	V.
+c)	The voltage V3 is	V.0.42
